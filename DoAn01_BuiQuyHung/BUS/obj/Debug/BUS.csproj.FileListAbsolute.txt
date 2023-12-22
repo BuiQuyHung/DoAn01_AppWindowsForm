@@ -1,0 +1,211 @@
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.dll
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.dll
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.pdb
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.pdb
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\--- DO AN 1 ---\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.pdb
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.dll
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.pdb
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.dll
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.dll
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.pdb
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.pdb
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CopyComplete
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.dll
+C:\Users\ASUS\Downloads\ChuongTrinh_BuiQuyHung-20230508T144109Z-002\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.pdb
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.pdb
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\EnvDTE.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\stdole.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\## DO AN 1 ##\ChuongTrinh_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\EnvDTE.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\stdole.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.pdb
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.pdb
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\----- DoAn01_Final_BQH -----\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\BUS.pdb
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\EnvDTE.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\stdole.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DAL.pdb
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\DTO.pdb
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.AssemblyReference.cache
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CoreCompileInputs.cache
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.csproj.CopyComplete
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.dll
+D:\UTEHY_Hoc Tap\Nam 2\DoAn01-BQH\DoAn_BuiQuyHung\ChuongTrinh_BuiQuyHung\DoAn01_BuiQuyHung\BUS\obj\Debug\BUS.pdb

@@ -1,0 +1,19 @@
+CREATE PROCEDURE AuthoLogin
+	-- Add the parameters for the stored procedure here
+	@Username nvarchar(20),
+	@Password nvarchar(20)
+AS
+BEGIN
+	-- SET NOCOUNT ON added to prevent extra result sets from
+	-- interfering with SELECT statements.
+	SET NOCOUNT ON;
+
+    -- Insert statements for procedure here
+	if exists (SELECT * from Users where UserID=@Username and Pass=@Password and Per=1)
+		select 1 as code
+	else if exists (SELECT * from Users where UserID=@Username and Pass=@Password and Per=0)
+		select 0 as code
+	else if exists (SELECT * from Users where UserID=@Username and Pass!=@Password)
+		select 2 as code
+	else select 3 as code
+END
